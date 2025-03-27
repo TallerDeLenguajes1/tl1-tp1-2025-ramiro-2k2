@@ -20,6 +20,6 @@ defines qué archivos o carpetas deben ser ignorados por Git._
 
 ## Construido con 🛠️
 - [Visual Studio Code]
-- [Guit Bash]
+- [Git Bash]
 - [notepad++ v7.4]
 
